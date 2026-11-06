@@ -7,7 +7,6 @@ https://dil9xdvretp0f.cloudfront.net/index.m3u8
 https://dc6v647pwrp79.cloudfront.net/matjr.m3u8
 #EXTINF:-1 tvg-name="Pocoyo (1080p)",Pocoyo (1080p)
 https://d16ecq77cfclte.cloudfront.net/Pocoyo_GB.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-name="Moonbug",Moonbug
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="eng",NAME="English",DEFAULT=YES,AUTOSELECT=YES,URI="https://dq2a9ghraf7sw.cloudfront.net/en-vtt/index.m3u8"
 https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
