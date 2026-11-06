@@ -7,7 +7,8 @@ https://dil9xdvretp0f.cloudfront.net/index.m3u8
 https://dc6v647pwrp79.cloudfront.net/matjr.m3u8
 #EXTINF:-1 tvg-name="Pocoyo (1080p)",Pocoyo (1080p)
 https://d16ecq77cfclte.cloudfront.net/Pocoyo_GB.m3u8
-#EXTINF:-1 tvg-name="Moonbug (1080p)",Moonbug (1080p)
+#EXTINF:-1 tvg-name="Moonbug",Moonbug
+#EXTVLCOPT:sub-file=https://dq2a9ghraf7sw.cloudfront.net/en-vtt/index.m3u8
 https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
 #EXTINF:-1 tvg-name="Pokémon (1080p)",Pokémon (1080p)
 https://docpe51mdltl5.cloudfront.net/Pokemon_GB.m3u8
